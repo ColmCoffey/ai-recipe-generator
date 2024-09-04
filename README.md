@@ -24,7 +24,7 @@ Open-source web application for generating personalized recipes based on user-pr
 
 The AI Recipe Generator is a web application that lets users enter a list of ingredients to generate delicious, AI-powered recipes. It leverages AWS Amplify for seamless deployment and hosting, integrating various AWS services to create a scalable and responsive solution.
 
-This project is inspired by the [AWS Build a Serverless App Tutorial](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-amplify-bedrock-cognito-gen-ai/) and extends its concepts to a practical AI-driven recipe application.
+This project is developed via the [AWS Build a Serverless App Tutorial](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-amplify-bedrock-cognito-gen-ai/) and extends its concepts to a practical AI-driven recipe application.
 
 ## Architecture Diagram 🖥️
 
