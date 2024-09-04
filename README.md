@@ -1,4 +1,4 @@
-# 🍳 AI Recipe Generator App with AWS Bedrock
+# AI Recipe Generator App with AWS Bedrock
 
 Open-source web application for generating personalized recipes based on user-provided ingredients.
 
