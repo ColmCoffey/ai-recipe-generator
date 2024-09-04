@@ -30,6 +30,8 @@ This project is developed via the [AWS Build a Serverless App Tutorial](https://
 
 ![Architecture Diagram](![image](https://github.com/user-attachments/assets/b1293c0b-2012-4c50-b144-e14a8e6df0c9)
 )
+![image](https://github.com/user-attachments/assets/a20d8faf-c6d3-430f-a4c8-bc6b207e4ac3)
+
 
 - **Users** interact with the app hosted on AWS Amplify.
 - **AWS Amplify** handles the CI/CD workflow and frontend deployment.
